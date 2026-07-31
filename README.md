@@ -15,11 +15,11 @@ A self-contained, searchable preservation guide for Hasbro P-O-X.
 
 ## Run locally
 
-Open `index.html` in any modern browser. No server, build step, database, or external asset directory is required.
+Open `index.html` in any modern browser.
 
-## Publish
+## View Online
 
-The file can be hosted directly as a GitHub Pages site or copied to `avideogamestore.com/pox/` as `index.html`.
+The file is hosted publicly at https://avideogamestore.com/pox/.
 
 ## Collaborate
 
