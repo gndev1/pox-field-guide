@@ -28,4 +28,4 @@ Clone or fork the repository, edit `index.html`, verify changes in desktop and m
 
 ## Arena maps
 
-The guide embeds 21 surviving map images covering 16 of the 17 Genome Arenas. Alternate maps are retained as selectable thumbnails. Arena 3 remains open for preservation and documentation.
+The guide embeds 20 surviving map images covering 16 of the 17 Genome Arenas. Alternate maps are retained as selectable thumbnails. Arena 3 remains open for preservation and documentation.
